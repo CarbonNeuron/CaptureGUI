@@ -6,4 +6,10 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Config.Net.Json" Version="4.15.0" />
+    <PackageReference Include="MahApps.Metro" Version="2.2.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.5.0" />
+  </ItemGroup>
+
 </Project>
